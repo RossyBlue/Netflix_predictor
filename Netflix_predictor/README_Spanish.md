@@ -371,14 +371,6 @@ Estas variables fueron posteriormente utilizadas como base para el sistema de fi
 
 ---
 
-# 👥 Integrantes
-
-- Beatriz Castillo
-- Sofia Herrera
-- Rosa Garrote
-
----
-
 # 📚 Referencias
 
 - Scikit-learn Documentation
@@ -389,6 +381,3 @@ Estas variables fueron posteriormente utilizadas como base para el sistema de fi
 
 ---
 
-# 📄 Licencia
-
-Proyecto desarrollado con fines académicos para la asignatura ACIF104.
